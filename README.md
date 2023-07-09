@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fayustovna&label=Profile%20views&color=0e75b6&style=flat" alt="fayustovna" /> </p>
 
 ## Contacts:
-- e-Mail: n.a.fayustov@gmail.com
+- E-mail: n.a.fayustov@gmail.com
 - Telegram: @nikolayfayustov
 
 
