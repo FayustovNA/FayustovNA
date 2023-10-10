@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" border-radius="20"/>
 </div>
 
-<p align="center" width="200"> <img src="https://komarev.com/ghpvc/?username=fayustovna&label=Profile%20views&color=0e75b6&style=flat" alt="fayustovna" /> </p>
+<p align="center" width="200"> <img width="200" src="https://komarev.com/ghpvc/?username=fayustovna&label=Profile%20views&color=0e75b6&style=flat" alt="fayustovna" /> </p>
 
 ## Contacts:
 - E-mail: n.a.fayustov@gmail.com
