@@ -1,6 +1,6 @@
 ### NIKOLAY FAYUSTOV
 
-<div id="header" align="center">
+<div id="header" align="center" border-radius="20">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" border-radius="20"/>
 </div>
 
