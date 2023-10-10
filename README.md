@@ -1,7 +1,7 @@
 ### NIKOLAY FAYUSTOV
 
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fayustovna&label=Profile%20views&color=0e75b6&style=flat" alt="fayustovna" /> </p>
