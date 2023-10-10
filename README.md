@@ -27,6 +27,9 @@
   <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/nestjs/nestjs-plain.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/docker/docker-plain-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/figma/figma-original.svg" alt="figma-original" width="40" height="40"/>  
 </a>
   <img src="https://github.com/FayustovNA/devicon-master/blob/main/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
